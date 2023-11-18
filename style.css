@@ -1,0 +1,35 @@
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.Readme{
+    padding: 6px;
+    border: 1px solid #000;
+}
+.photo1{
+    border-radius: 70%;
+    width: 300px;
+    height: 300px;
+}
+.photo2{
+    width: 550px;
+    height: 560px;
+}
+.photo3{
+    width: 650px;
+    height: 600px;
+}
+.photo4{
+    width: 500px;
+    height: 600px;
+}
+.contatos li a{
+    text-decoration: none;
+}
+
+
+
+
+
+
